@@ -1,0 +1,2 @@
+variable "vmss" {}
+variable "nics" {}
